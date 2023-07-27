@@ -1,4 +1,4 @@
-{
+{"description":"A project that does something awesome",
 	"author":"Alexandru Buica",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
