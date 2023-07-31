@@ -1,9 +1,9 @@
-{   "license": "MIT",
+{   "version": "1.2.0",
+	"license": "MIT",
 	"keywords":["freecodecamp","node","express"],
 	"description":"A project that does something awesome",
 	"author":"Alexandru Buica",
 	"name": "fcc-learn-npm-package-json",
-	"version": "1.0.0"
 	"dependencies": {
 	"express": "^4.14.0"
 	},
